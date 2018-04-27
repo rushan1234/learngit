@@ -7,4 +7,4 @@ Git is good
 
 
 Git is very good
-Git tracks changes.
+Git tracks changes of files.
